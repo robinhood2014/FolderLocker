@@ -1,0 +1,12 @@
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\bin\Debug\FolderLocker.exe.config
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\bin\Debug\FolderLocker.exe
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\bin\Debug\FolderLocker.pdb
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\bin\Debug\FolderLocker.xml
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Debug\FolderLocker.Resources.resources
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Debug\FolderLocker.vbproj.GenerateResource.Cache
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Debug\FolderLocker.vbproj.CoreCompileInputs.cache
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Debug\FolderLocker.exe
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Debug\FolderLocker.xml
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Debug\FolderLocker.pdb
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Debug\FolderLocker.vbprojResolveAssemblyReference.cache
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Debug\FolderLocker.frmFolderLocker.resources

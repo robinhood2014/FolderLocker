@@ -1,0 +1,11 @@
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\bin\Release\FolderLocker.exe.config
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\bin\Release\FolderLocker.exe
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\bin\Release\FolderLocker.pdb
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\bin\Release\FolderLocker.xml
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Release\FolderLocker.frmFolderLocker.resources
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Release\FolderLocker.Resources.resources
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Release\FolderLocker.vbproj.GenerateResource.Cache
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Release\FolderLocker.vbproj.CoreCompileInputs.cache
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Release\FolderLocker.exe
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Release\FolderLocker.xml
+C:\Users\donni\source\repos\FolderLocker\FolderLocker\obj\Release\FolderLocker.pdb
